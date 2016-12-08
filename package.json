@@ -1,0 +1,49 @@
+{
+  "name": "prettytype-es6",
+  "version": "0.1.19",
+  "description": "ECMAscript6/2015 for core modules including a base prototype and prototypes hierarchy, intended to be reused on the Browser as core for i.e. Angular Controllers and Services, as in the uiwire component.",
+  "keywords": [
+    "core",
+    "uiwire"
+  ],
+  "homepage": "http://github.com/carrascoMDD/prettytype-es6",
+  "bugs": {
+    "url": "http://github.com/carrascoMDD/prettytype-es6/issues"
+  },
+  "license": "EUPL-1.1",
+  "author": {
+    "name": "Antonio Carrasco Valero",
+    "email": "carrascomdd@gmail.com"
+  },
+  "files": [
+    "src",
+    "build",
+    "dist",
+    "test",
+    "bower.json",
+    "karma.conf.js",
+    "Gruntfile.js"
+  ],
+  "main": null,
+  "bin": {},
+  "man": null,
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/carrascoMDD/prettytype-es6.git"
+  },
+  "scripts": {},
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-babel": "*",
+    "babel-preset-es2015": "*",
+    "gulp-plumber": "*"
+   
+  },
+  "maintainers": [
+    {
+      "name": "Antonio Carrasco Valero",
+      "email": "carrascomdd@gmail.com"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "prettytype-es6",
-  "version": "0.1.19",
+  "version": "0.0.2",
   "description": "ECMAscript6/2015 for core modules including a base prototype and prototypes hierarchy, intended to be reused on the Browser as core for i.e. Angular Controllers and Services, as in the uiwire component.",
   "keywords": [
     "core",
@@ -35,9 +35,16 @@
   "config": {},
   "dependencies": {},
   "devDependencies": {
+    "gulp": "*",
+    "babel-core": "*",
     "gulp-babel": "*",
     "babel-preset-es2015": "*",
-    "gulp-plumber": "*"
+    "gulp-plumber": "*",
+    "gulp-sourcemaps": "*",
+    "jasmine-core": "*",
+    "karma": "*",
+    "karma-chrome-launcher": "*",
+    "karma-jasmine": "*"
    
   },
   "maintainers": [
